@@ -5,8 +5,8 @@
 
     "background_color": "#01579b",
     "theme_color": "#ffffff",
-    "display": "browser",
-    "start_url": "/index.html",
+    "display": "standalone",
+    "start_url": ".",
 
     "icons": [
         {
